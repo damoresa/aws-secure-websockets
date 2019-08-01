@@ -1,0 +1,6 @@
+# Environment
+.env
+
+# NodeJS
+node_modules/
+*.log

@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+
+# NodeJS
+node_modules/
+*.log
+
+# MAC
+.DS_Store

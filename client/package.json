@@ -1,0 +1,13 @@
+{
+  "name": "aws-secure-websockets-client",
+  "version": "1.0.0",
+  "description": "AWS secured socket client",
+  "main": "index.js",
+  "author": "Daniel Amores Álvarez <damoresac@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.0",
+    "dotenv": "8.0.0",
+    "websocket": "1.0.29"
+  }
+}
