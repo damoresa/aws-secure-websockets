@@ -62,7 +62,7 @@ this command:
 serverless remove -v
 ```
 
-[medium article]: http://
+[medium article]: https://medium.com/@damoresac/implementing-secure-web-sockets-with-aws-api-gateway-cognito-dynamodb-and-lambda-b38e02314b42
 [NodeJS]: https://nodejs.org/
 [serverless]: https://serverless.com/
 [configure serverless locally]: https://serverless.com/framework/docs/providers/aws/guide/credentials/
