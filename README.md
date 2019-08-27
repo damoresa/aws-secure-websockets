@@ -12,8 +12,8 @@ All services have been implemented using [NodeJS].
 ### Serverless service user policies
 
 _serverless_ documentation recommends creating a service user 
-with restricted permissions in order to avoid security issues 
-- for example, user leaking and having admin rights could be 
+with restricted permissions in order to avoid security issues; 
+for example, user leaking and having admin rights could be 
 devastating for your _AWS_ bill.
 
 However, the policies provided on the official example do not 
